@@ -1,29 +1,3 @@
-# EcoCart – HackOn with Amazon Season 5 Submission
-
-## Team: Runtime Terror
-
-**Team Members**  
-- Yasharth Shukla  
-- Tejash Kapoor  
-- Abhinav Saha  
-
----
-
-## Live Demo  
-🔗 [EcoCart Website](https://eco-cart-pi.vercel.app/)
-
----
-
-## Video Demo of the Prototype
-🔗 [Demo Video](https://drive.google.com/file/d/10N0e0z3ZNVQxqxoUmzpsse20Ti0BApDQ/view?usp=sharing)
-
----
-
-## Idea Submission PDF  
-🔗 [View our original idea submission (PDF)](https://drive.google.com/file/d/1sw9AFPz0XeTjs_cmt93rNBbQG9yb8vQy/view?usp=sharing)
-
----
-
 ## Overview
 
 **EcoCart** is a sustainable shopping assistant designed to integrate seamlessly with the Amazon shopping experience. It helps users make climate-conscious decisions by showing real-time carbon footprints, suggesting greener alternatives, and promoting group-based sustainability.
@@ -104,11 +78,4 @@ See how a product scores on the 3R principle higher the score the better that pr
 
 ---
 
-## Next Steps (Beyond Prototype)
-- Integration with real Amazon API (for dynamic product data).
-- Backend logic to persist user progress, reward tracking, and CO₂ history.
-- Advanced recommendation engine using LLMs for sustainability suggestions.
-- Mobile responsiveness and PWA support.
-
----
 
