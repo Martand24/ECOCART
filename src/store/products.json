@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Disposable Plastic Drinking Straws \u2013 a pack of 100 clear, BPA-free straws designed for convenience and reliability, 7.75-inch",
+    "price": 7.5,
+    "rating": 3,
+    "image": "https://via.placeholder.com/150/ffcccb/000000?text=Plastic+Straws",
+    "ecoFriendly": false
+  },
+  {
+    "title": "Single-Use Plastic Plates \u2013 pack of 50 durable, lightweight plates for parties and events",
+    "price": 9.9,
+    "rating": 4,
+    "image": "https://via.placeholder.com/150/ffcccb/000000?text=Plastic+Plates",
+    "ecoFriendly": false
+  },
+  {
+    "title": "Plastic Water Bottles \u2013 24 pack of 500 ml single-use water bottles",
+    "price": 11.5,
+    "rating": 4,
+    "image": "https://via.placeholder.com/150/ffcccb/000000?text=Bottled+Water",
+    "ecoFriendly": false
+  },
+  {
+    "title": "Disposable Coffee Cups \u2013 pack of 50 with lids, 12 oz, to-go style",
+    "price": 14.9,
+    "rating": 4,
+    "image": "https://via.placeholder.com/150/ffcccb/000000?text=Disposable+Cups",
+    "ecoFriendly": false
+  },
+  {
+    "title": "Plastic Cutlery Set \u2013 100 piece pack (forks, knives, spoons), lightweight and convenient",
+    "price": 5.5,
+    "rating": 3,
+    "image": "https://via.placeholder.com/150/ffcccb/000000?text=Plastic+Cutlery",
+    "ecoFriendly": false
+  },
+  {
+    "title": "Grocery Plastic Bags \u2013 pack of 500, lightweight and reusable once or twice",
+    "price": 12.9,
+    "rating": 2,
+    "image": "https://via.placeholder.com/150/ffcccb/000000?text=Plastic+Bags",
+    "ecoFriendly": false
+  },
+  {
+    "title": "Single-Use Cotton Pads \u2013 pack of 100, soft, non-reusable cosmetics pads",
+    "price": 4.5,
+    "rating": 3,
+    "image": "https://via.placeholder.com/150/ffcccb/000000?text=Cotton+Pads",
+    "ecoFriendly": false
+  },
+  {
+    "title": "Plastic Toothbrush \u2013 pack of 5, non-biodegradable dental care",
+    "price": 6.9,
+    "rating": 4,
+    "image": "https://via.placeholder.com/150/ffcccb/000000?text=Toothbrush",
+    "ecoFriendly": false
+  },
+  {
+    "title": "Plastic Snack Bags \u2013 100 piece, single use, resealable",
+    "price": 7.9,
+    "rating": 3,
+    "image": "https://via.placeholder.com/150/ffcccb/000000?text=Snack+Bags",
+    "ecoFriendly": false
+  },
+  {
+    "title": "Plastic Razor \u2013 pack of 10, disposable, lightweight",
+    "price": 8.5,
+    "rating": 2,
+    "image": "https://via.placeholder.com/150/ffcccb/000000?text=Razors",
+    "ecoFriendly": false
+  },
+  {
+    "title": "Biodegradable Paper Drinking Straws \u2013 pack of 100, compostable, 7.75-inch",
+    "price": 8.9,
+    "rating": 4,
+    "image": "https://via.placeholder.com/150/ccffcc/000000?text=Paper+Straws",
+    "ecoFriendly": true
+  },
+  {
+    "title": "Compostable Paper Plates \u2013 pack of 50, heavy-duty, plant-fiber material",
+    "price": 11.9,
+    "rating": 5,
+    "image": "https://via.placeholder.com/150/ccffcc/000000?text=Compostable+Plates",
+    "ecoFriendly": true
+  },
+  {
+    "title": "Reusable Water Bottle \u2013 500 ml, BPA-free, stainless steel",
+    "price": 19.9,
+    "rating": 5,
+    "image": "https://via.placeholder.com/150/ccffcc/000000?text=Reusable+Bottle",
+    "ecoFriendly": true
+  },
+  {
+    "title": "Compostable Coffee Cup \u2013 pack of 50 with lids, 12 oz, plant-based",
+    "price": 16.9,
+    "rating": 4,
+    "image": "https://via.placeholder.com/150/ccffcc/000000?text=Compostable+Cups",
+    "ecoFriendly": true
+  },
+  {
+    "title": "Bamboo Cutlery Set \u2013 reusable, lightweight, durable, 100% natural",
+    "price": 9.5,
+    "rating": 5,
+    "image": "https://via.placeholder.com/150/ccffcc/000000?text=Bamboo+Cutlery",
+    "ecoFriendly": true
+  },
+  {
+    "title": "Compostable Produce Bags \u2013 pack of 500, plant-starch material",
+    "price": 15.9,
+    "rating": 4,
+    "image": "https://via.placeholder.com/150/ccffcc/000000?text=Compostable+Bags",
+    "ecoFriendly": true
+  },
+  {
+    "title": "Organic Cotton Pads \u2013 pack of 100, reusable, soft, eco-conscious",
+    "price": 7.9,
+    "rating": 5,
+    "image": "https://via.placeholder.com/150/ccffcc/000000?text=Cotton+Pads",
+    "ecoFriendly": true
+  },
+  {
+    "title": "Bamboo Toothbrush \u2013 pack of 5, biodegradable handle, medium bristles",
+    "price": 9.9,
+    "rating": 4,
+    "image": "https://via.placeholder.com/150/ccffcc/000000?text=Bamboo+Toothbrush",
+    "ecoFriendly": true
+  },
+  {
+    "title": "Silicone Snack Bags \u2013 reusable, food-safe, leak-proof, set of 100",
+    "price": 14.9,
+    "rating": 5,
+    "image": "https://via.placeholder.com/150/ccffcc/000000?text=Silicone+Bags",
+    "ecoFriendly": true
+  },
+  {
+    "title": "Safety Razor \u2013 metal handle, reusable, eco-conscious alternative",
+    "price": 24.9,
+    "rating": 5,
+    "image": "https://via.placeholder.com/150/ccffcc/000000?text=Safety+Razor",
+    "ecoFriendly": true
+  }
+]
